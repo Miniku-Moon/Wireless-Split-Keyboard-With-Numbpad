@@ -1,2 +1,2 @@
-# Wireless-Split-Keyboard-With-Numbpad
-A wireless split keyboard with a numbpad on the right side
+# Split-Keyboard-With-Numbpad
+A split keyboard with a numbpad on the right side
